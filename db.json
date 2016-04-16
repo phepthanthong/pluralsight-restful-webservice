@@ -1,0 +1,32 @@
+{
+	"title": "War and Peace",
+	"genre": "Historical Fiction",
+	"author": "Lev Nikolayevich Tolstoy",
+	"bookId": 656,
+	"read": false
+}
+{
+	"title": "Les Miserables",
+	"genre": "Historical Fiction",
+	"author": "Victor Hugo",
+	"bookId": 24280,
+	"read": false
+}
+{
+	"title": "The Time Machine",
+	"genre": "Science Fiction",
+	"author": "H. G. Wells",
+	"read": false
+}
+{
+	"title": "A journey into the CEnter of the Earth",
+	"genre": "Science Fiction",
+	"author": "Lev Nikolayevich Tolstoy",
+	"read": false
+}
+{
+	"title": "The Dark World",
+	"genre": "Fantasy",
+	"author": "Henry Kuttner",
+	"read": false
+}
